@@ -5,5 +5,5 @@ email VARCHAR(255) unique,
 dateRegistration VARCHAR(255),
 dateLastAuthorization VARCHAR(255),
 password VARCHAR(255),
-role VARCHAR(255)
+status VARCHAR(255)
 );
